@@ -1,2 +1,7 @@
 # DSA-Playlist-Collaboration
-Collaborating Repository
+
+<h4>
+  
+- [`Searching Algorithms`](Searching%20Algorithms)
+  
+</h4>
